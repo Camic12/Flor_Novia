@@ -20,7 +20,7 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
   }
   typeBtn();
   
-  // Followers - Mensaje carta poética y personal
+  // Followers - Mensaje
   const messages = [
     'Deilis❤️...',
     '❤️Mi reina❤️',
